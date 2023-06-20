@@ -1,0 +1,19 @@
+.footer-box{
+    background-color: #ffccee;
+    padding: 70px;
+    margin-left: 330px;
+    margin-top: auto;
+    border-radius: 10px;
+}
+.footer{
+    background-color:#8f246b;
+    padding: 30px;
+    text-align: center;
+    height:100%;
+}
+.text{
+    font-size:14px;
+    color: #FFFFFF;
+    margin-top: 30px;
+
+    }

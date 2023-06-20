@@ -1,0 +1,20 @@
+.image {
+  margin-left: 125px;
+}
+.sign-up {
+  margin-left: 275px;
+  padding: 5px;
+}
+.sign-in {
+  background-color: #8f246b;
+  color: aliceblue;
+}
+.LOGO-image-nav {
+  width: 100px;
+  margin-left: 60%;
+  padding: 2px;
+}
+.about{
+    margin-left: 70px;
+    padding: 3px;
+}
